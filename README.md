@@ -267,7 +267,7 @@ call it on a variable. So let's try it with our `shout()` function:
 
 ```js
 function shout(string) {
-  return string.toUpperCase();
+  return string.toUpperCase()
 }
 ```
 
